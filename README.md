@@ -1,7 +1,7 @@
 FrozenCookies
 =============
 
-An automated Cookie Clicker tool.
+An automated Cookie Clicker tool **for old version 2**.
 
 How to use
 ----------
