@@ -8,7 +8,7 @@ How to use
 
 ## Bookmarklet install
 
-1. Paste the *contents* (not the url) of http://icehawk78.github.io/FrozenCookies/fc_bookmarklet_loader.js into a bookmark.
+1. Paste the *contents* (not the url) of http://felixkempf.github.io/FrozenCookies/fc_bookmarklet_loader.js into a bookmark.
 2. Load up Cookie Clicker.
 3. Load the recently created bookmark.
 
@@ -138,7 +138,7 @@ Will autobuy and value Faberge Egg, Golden Goose Egg, and Wrinklerspawn
 - Timers are much smoother and not on the FC page
 - Many stability improvements
 - Newer GC valuation code
-- Moved the hosting URL to one that won't cause script-type warnings when you load it. (http://icehawk78.github.io/FrozenCookies)
+- Moved the hosting URL to one that won't cause script-type warnings when you load it. (http://felixkempf.github.io/FrozenCookies)
 
 2013 Oct 03:
 
@@ -156,7 +156,7 @@ Upcoming features!
  - Add less terrible UI, including more detailed tooltips, and possible color/icon markers indicating relative efficiency of purchases.
  - Add the ability to set custom Golden Click ratio and Cookie Click ratio for more accurate valuation of Golden Cookie upgrades and Mouse upgrades.
  - Add a toggle to make timers utilise Effective CPS rather than Current CPS for "Time to Completion"
- - Other stuff? (If you're a visitor and have other ideas to be added, go here to let me know: https://github.com/Icehawk78/FrozenCookies/issues/new )
+ - Other stuff? (If you're a visitor and have other ideas to be added, go here to let me know: https://github.com/felixkempf/FrozenCookies/issues/new )
 
 Efficiency? What's that?
 ========================
